@@ -63,7 +63,7 @@ node_modules/
 .yarn-integrity
 
 # dotenv environment variables file
-# .env
+.env
 
 # source code no commit
 components/*
@@ -71,5 +71,6 @@ pages/*
 public/*
 styles/*
 utils/*
+next.config.js
 package-lock.json
 package.json
